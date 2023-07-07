@@ -1,0 +1,53 @@
+﻿  Game.cpp
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(55,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(55,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(56,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(56,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(52,1): warning C4102: 'start': unreferenced label
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(259,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(426,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(426,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(438,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(438,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(614,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(614,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(622,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(622,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\ChickenInvaders\Game.cpp(760,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ChickenInvaders.vcxproj -> D:\COLLEGE\N3K2\thuc_tap_chuyen_nganh\SRV_Project\ChickenInvaders\x64\Debug\ChickenInvaders.exe
